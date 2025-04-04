@@ -1,8 +1,9 @@
 public class main {
     public static void main(String[] args) {
         System.out.println("Hello world");
-        System.out.prinln("Afegim una segona linia");
-        System.out.prinln("Afegim una tercera linia");
-        System.out.prinln("Afegim una linia des de Visual Studio Code");
+        System.out.println("Afegim una segona linia");
+        System.out.println("Afegim una tercera linia");
+        System.out.println("Afegim una linia des de Visual Studio Code");
+        System.out.println("Afegim una linia des de GitHub");
     }
 }
